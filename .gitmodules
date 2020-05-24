@@ -1,0 +1,3 @@
+[submodule "ucsc-homepage"]
+	path = ucsc-homepage
+	url = git@github.com:carlosmalt/ucsc-homepage.git
