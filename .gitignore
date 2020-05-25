@@ -1,1 +1,4 @@
-ucsc-homepage/.gitignore
+public/
+.idea/
+resources/
+*~
